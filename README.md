@@ -61,6 +61,7 @@ Kullanıcılara hayvanlarla ilgili bilgilendirici içerikler sunar. Kullanıcıl
 Hayvan koruma etkinlikleri ve gönüllülük projeleri hakkında kullanıcıları bilgilendirir. Kullanıcılar, katılabilecekleri etkinlikleri görüntüleyebilir, kaydolabilir ve etkinlik sonrası geri bildirimlerde bulunabilir. Bu sayede, kullanıcılar aktif olarak hayvanlara yardım etme ve topluluk etkinliklerine katılma fırsatı bulurlar.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Ürün Özellikleri
+
 1-Hayvan Sahiplenme:
 
 * Hayvan barınaklarındaki veya sahiplendirme platformlarındaki hayvanları görüntüleme ve arama özelliği
