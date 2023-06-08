@@ -33,11 +33,11 @@ F-120 OUA BOOTCAMP
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Takım Elemanları
 
-Rezan Şentürk: Scrum Master / Developer - 
-Nida Sağlam - Developer - 
-Tuana Küçük -Developer - 
-Hüseyin Karabulut - Developer - 
-Melek KARAKAYA - Product Owner
+* Rezan Şentürk: Scrum Master / Developer 
+* Nida Sağlam - Developer 
+*Tuana Küçük -Developer 
+*Hüseyin Karabulut - Developer 
+*Melek KARAKAYA - Product Owner
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Ürün İsmi
