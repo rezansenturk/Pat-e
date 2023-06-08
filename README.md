@@ -96,6 +96,7 @@ Bu özellikler, hayvanları koruma ve destek uygulamasının temel işlevlerini 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  HEDEF KİTLE 
+ 
  1-Hayvan Severler:
  Hayvanları seven ve onların refahı için duyarlı olan kişiler, uygulamanın ana hedef kitlesini oluşturabilir. Bu kişiler hayvanlarla ilgili haberleri takip eder, hayvan      sahiplenmeyi düşünür veya hayvanlara yardım etmek için bağış yapar.         
  
