@@ -141,7 +141,15 @@ Katılımınız ve değerli değerlendirmeleriniz için şimdiden teşekkür ede
 
 Saygılarımızla,
 
-Rezan Şentürk 
+ Rezan Şentürk: Scrum Master / Developer 
+ ---
+ Nida Sağlam - Developer 
+ ---
+ Tuana Küçük -Developer 
+ ---
+ Hüseyin Karabulut - Developer 
+ ---
+ Melek KARAKAYA - Product Owner
 ----
 İLETİŞİM
 ---
