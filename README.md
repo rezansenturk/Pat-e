@@ -45,11 +45,11 @@ Takım Elemanları
 Ürün İsmi
 ----
 -- Pat-E --
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 Ürün Açıklaması
 ----
-1. Hayvan Sahiplenme: 
 
+1. Hayvan Sahiplenme: 
 * Kullanıcılara hayvan barınaklarındaki veya sahiplendirme platformlarındaki sevimli dostlarımızı keşfetme imkanı sunar. Kullanıcılar, detaylı bilgileri ve fotoğraflarıyla birlikte hayvanların sahiplenme koşullarını inceleyebilir, başvuruda bulunabilir ve sahiplendirme sürecini takip edebilir.
 
 2. Kayıp ve Bulunan Hayvanlar: 
