@@ -149,9 +149,9 @@ Saygılarımızla,
  ---
  Nida Sağlam - Developer  ----- 05051072781 --- nida.saglam_2003@hotmail.com
  ---
- Tuana Küçük -Developer 
+ Tuana Küçük -Developer -----  05070658038 --- tuana.kucuk58@gmail.com
  ---
- Hüseyin Karabulut - Developer 
+ Hüseyin Karabulut - Developer ----- 
  ---
  Melek KARAKAYA - Product Owner
 ----
