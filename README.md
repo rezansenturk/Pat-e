@@ -147,7 +147,7 @@ Saygılarımızla,
                                                     
  Rezan Şentürk: Scrum Master / Developer  -----  05352761973  ---  rezansenturk@gmail.com
  ---
- Nida Sağlam - Developer 
+ Nida Sağlam - Developer  ----- 05051072781 --- nida.saglam_2003@hotmail.com
  ---
  Tuana Küçük -Developer 
  ---
