@@ -141,7 +141,11 @@ Katılımınız ve değerli değerlendirmeleriniz için şimdiden teşekkür ede
 
 Saygılarımızla,
 
- Rezan Şentürk: Scrum Master / Developer    05352761973  ---  rezansenturk@gmail.com
+
+                                                             İLETİŞİM
+                                                    ----------------------------
+                                                    
+ Rezan Şentürk: Scrum Master / Developer  -----  05352761973  ---  rezansenturk@gmail.com
  ---
  Nida Sağlam - Developer 
  ---
