@@ -151,9 +151,9 @@ Saygılarımızla,
  ---
  Tuana Küçük -Developer -----  05070658038 --- tuana.kucuk58@gmail.com
  ---
- Hüseyin Karabulut - Developer ----- 
+ Hüseyin Karabulut - Developer ----- 05050618342 --- hsyn.kbulut@gmail.com
  ---
- Melek KARAKAYA - Product Owner
+ Melek KARAKAYA - Product Owner ----- 
 ----
 
 
