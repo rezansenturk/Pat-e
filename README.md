@@ -153,7 +153,7 @@ Saygılarımızla,
  ---
  Hüseyin Karabulut - Developer ----- 05050618342 --- hsyn.kbulut@gmail.com
  ---
- Melek KARAKAYA - Product Owner ----- 
+ Melek KARAKAYA - Product Owner ----- 5537192168 --- melekkrky2002@gmail.com
 ----
 
 
