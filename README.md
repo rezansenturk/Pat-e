@@ -141,20 +141,48 @@ Katılımınız ve değerli değerlendirmeleriniz için şimdiden teşekkür ede
 
 Saygılarımızla,
 
+# Sprint 1
+
+- **Sprint Notları**: Takım olarak proje yönetiminde Trello kullanımı kararlaştırılmıştır. 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Sprint boyunca her gün ilgili uygulamalarla Daily Scrum yapılmıştır.  Daily Scrum toplantısı örnekleri word olarak Readme'de tarafımızdan paylaşılmaktadır:  
+[**Sprint 1 Daily Scrum Chats**]()
+
+## Product Backlog URL:Yarın bu görevler yapılıp link koyulucak!!!!!!
+
+[Trello Backlog Board_Sprint_1]() 
+
+- **Sprint board update**: Sprint board screenshotları: Düzenleme Yapılıcak!!!!!!!
+![Sprint1_1]() 
+  
+- **Sprint Review**: 
+Alınan kararlar: Uygulama fikri belirlendi. Uygulama fikri detaylandırılıp hedef kitle belirlendi ve uygulamanın mimari yapısına karar verildi. Figma, Behance vb. platformlardan uygulamanın UI tasarımı için fikir araştırması yapıldı. Uygulama Login, Anasayfa, Bilgi & Destek, Bağış İlanı Oluşturma sayfası, Bağış İlanlarını Görme ve Bağış İlan Detay Sayfası ekranları Photoshopta (veya başka bir tasarım aracında) tasarlandı. Uygulamanın diğer sayfalarında neler olmalı, hangi işlevler olmalı, nasıl bir özelliği olmalı o sayfanın vs. bunun düşünülmesi ve yazıya dökülmesi işlemi yapıldı. Flutter projesinin oluşturulmadı dolayısıyla projenin klasör yapısı da oluşturulmadı. Planlandığı şekilde Login ve Register ekranlarının Flutter'da yapılmasına başlanılmadı. Yapılmayan işler sınavlardan dolayı bir sonraki sprinte ertelendi.
+  
+- **Sprint Review katılımcıları:** 
+Rezan Şentürk, Hüseyin Karabulut, Melek Karakaya, Nida Sağlam, Tuana Küçük
+  
+- **Sprint Retrospective:**
+- Her sprintte sprint boyunca yaptığımız toplantılarla ilgili notların düzenli bir şekilde tutulmasına karar verildi.  
+- Veri tabanının bağlantısının yapılması ve tabloların oluşturulmasına karar verildi.
+- Flutter projesinin oluşturulmasına karar verildi.
+- Flutter projenin klasör yapısının oluşturulmasına karar verildi.
+- Login ve Register ekranlarının Flutter'da yapılmasına karar verildi.
+
+-**Diğer Notlar**:
+- N/A
+
+---
 
                                                              İLETİŞİM
-                                                    ----------------------------
-                                                    
- Rezan Şentürk: Scrum Master / Developer  -----  05352761973  ---  rezansenturk@gmail.com
- ---
- Nida Sağlam - Developer  ----- 05051072781 --- nida.saglam_2003@hotmail.com
- ---
- Tuana Küçük -Developer -----  05070658038 --- tuana.kucuk58@gmail.com
- ---
- Hüseyin Karabulut - Developer ----- 05050618342 --- hsyn.kbulut@gmail.com
- ---
- Melek KARAKAYA - Product Owner ----- 05537192168 --- melekkrky2002@gmail.com
-----
-
-
+                                                    ----------------------------                                                    
+ Rezan Şentürk: Scrum Master / Developer - 05352761973 - rezansenturk@gmail.com
+ Hüseyin Karabulut: - Developer (UI/UX Designer) - 05050618342 - hsyn.kbulut@gmail.com
+ Melek KARAKAYA: - Product Owner - 05537192168 - melekkrky2002@gmail.com
+ Nida Sağlam: - Developer  - 05051072781 - nida.saglam_2003@hotmail.com
+ Tuana Küçük: - Developer - 05070658038 - tuana.kucuk58@gmail.com
+ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
