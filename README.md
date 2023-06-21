@@ -152,9 +152,9 @@ Saygılarımızla,
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Sprint boyunca her gün ilgili uygulamalarla Daily Scrum yapılmıştır.  Daily Scrum toplantısı örnekleri word olarak Readme'de tarafımızdan paylaşılmaktadır:  
 [**Sprint 1 Daily Scrum Chats**]()
 
-## Product Backlog URL:Yarın bu görevler yapılıp link koyulucak!!!!!!
+## Product Backlog URL
 
-[Trello Backlog Board_Sprint_1]() 
+[Trello Backlog Board_Sprint_1](https://trello.com/b/CfONQ2GE/g%C3%B6revler) 
 
 - **Sprint board update**: Sprint board screenshotları: Düzenleme Yapılıcak!!!!!!!
 ![Sprint1_1]() 
