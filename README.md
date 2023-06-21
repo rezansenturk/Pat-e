@@ -179,8 +179,10 @@ Rezan Şentürk, Hüseyin Karabulut, Melek Karakaya, Nida Sağlam, Tuana Küçü
 
                                                              İLETİŞİM
                                                     ----------------------------                                                    
- Rezan Şentürk: Scrum Master / Developer - 05352761973 - rezansenturk@gmail.com
+ Rezan Şentürk: Scrum Master / Developer - 05352761973 - rezansenturk@gmail.com  
+ 
  Hüseyin Karabulut: - Developer (UI/UX Designer) - 05050618342 - hsyn.kbulut@gmail.com
+ 
  Melek KARAKAYA: - Product Owner - 05537192168 - melekkrky2002@gmail.com
  Nida Sağlam: - Developer  - 05051072781 - nida.saglam_2003@hotmail.com
  Tuana Küçük: - Developer - 05070658038 - tuana.kucuk58@gmail.com
