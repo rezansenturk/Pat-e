@@ -23,7 +23,7 @@ F-120 OUA BOOTCAMP
 * Kullanıcılar, bağış yaptıklarında alacakları bilgileri görüntüleyebilir ve bağış geçmişlerini takip edebilir.
 
 4-Bilgilendirme ve Eğitim:
-----
+-----
 * Hayvanlarla ilgili bilgilendirici içerikler, makaleler, videolar veya infografikler sunulabilir.
 * Kullanıcılara hayvan bakımı, beslenme, sağlık gibi konularda eğitim materyalleri sağlanabilir.
 * Kullanıcılar, sorularını sormak veya uzmanlardan tavsiye almak için iletişim kanallarına erişebilir.
