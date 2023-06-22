@@ -188,10 +188,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello panosunda göz
 
  </table>
 
-- **Sprint Review**: 
+**Sprint Review**: 
 Alınan kararlar: Uygulama fikri belirlendi. Uygulama fikri detaylandırılıp hedef kitle belirlendi ve uygulamanın mimari yapısına karar verildi. Figma, Behance vb. platformlardan uygulamanın UI tasarımı için fikir araştırması yapıldı. Uygulama Login, Anasayfa, Bilgi & Destek, Bağış İlanı Oluşturma sayfası, Bağış İlanlarını Görme ve Bağış İlan Detay Sayfası ekranları Photoshopta (veya başka bir tasarım aracında) tasarlandı. Uygulamanın diğer sayfalarında neler olmalı, hangi işlevler olmalı, nasıl bir özelliği olmalı o sayfanın vs. bunun düşünülmesi ve yazıya dökülmesi işlemi yapıldı. Flutter projesinin oluşturulmadı dolayısıyla projenin klasör yapısı da oluşturulmadı. Planlandığı şekilde Login ve Register ekranlarının Flutter'da yapılmasına başlanılmadı. Yapılmayan işler sınavlardan dolayı bir sonraki sprinte ertelendi.
   
-- **Sprint Review katılımcıları:** 
+**Sprint Review katılımcıları:** 
 Rezan Şentürk, Hüseyin Karabulut, Melek Karakaya, Nida Sağlam, Tuana Küçük
 
 **Sprint Retrospective:**
