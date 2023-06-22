@@ -1,12 +1,12 @@
 # **Takım İsmi**
 
 ### **F-120 OUA**
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Ürün İsmi
 # **Pat-E**
 
 ## Ürün İle İlgili Bilgiler
-----
+
 ### 1-Hayvan Sahiplenme:
 -----
 * Kullanıcıların hayvan barınaklarındaki veya sahiplendirme platformlarındaki hayvanları görebileceği bir arayüz sağlanabilir.
@@ -37,7 +37,6 @@
 * Kullanıcılar, katılabilecekleri etkinlikleri görebilir, kaydolabilir ve etkinliklere katılım sonrası geri bildirimlerde bulunabilir.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Takım Elemanları
----
 * Rezan Şentürk: Scrum Master / Developer 
 * Nida Sağlam - Developer 
 * Tuana Küçük -Developer 
@@ -69,65 +68,65 @@
  * Hayvan koruma etkinlikleri ve gönüllülük projeleri hakkında kullanıcıları bilgilendirir. Kullanıcılar, katılabilecekleri etkinlikleri görüntüleyebilir, kaydolabilir ve etkinlik sonrası geri bildirimlerde bulunabilir. Bu sayede, kullanıcılar aktif olarak hayvanlara yardım etme ve topluluk etkinliklerine katılma fırsatı bulurlar.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Ürün Özellikleri
------
+
 ### 1-Hayvan Sahiplenme:
----
+
 * Hayvan barınaklarındaki veya sahiplendirme platformlarındaki hayvanları görüntüleme ve arama özelliği
 * Hayvanların detaylı bilgilerini, fotoğraflarını ve sahiplendirme koşullarını gösterme
 * Başvuruda bulunma ve sahiplendirme sürecini takip etme imkanı
 
 ### 2-Kayıp ve Bulunan Hayvanlar:
----
+
 * Kullanıcıların kaybolan veya bulunan hayvanlar hakkında ilan oluşturma ve arama özelliği
 * Hayvanların fotoğrafları, kayboldukları veya bulundukları yerler, iletişim bilgileri gibi detayları paylaşma
 * Kullanıcılar arasında kayıp hayvanların sahiplerine ulaşma veya bulunan hayvanların sahiplenilmesi için iletişim kurma imkanı
 
 ### 3-Bağış ve Destek:
----
+
 * Kullanıcıların hayvanlar için bağış yapabilme ve bağış geçmişlerini görüntüleme özelliği
 * Farklı bağış seçenekleri sunma, örneğin hayvan barınakları veya koruma kuruluşlarına doğrudan bağış yapma imkanı
 * Bağışlar hakkında bilgilendirme ve teşekkür mesajları gönderme özelliği
 
 ### 4-Bilgilendirme ve Eğitim:
----
+
 * Hayvan bakımı, beslenme, sağlık ve eğitim konularında bilgilendirici içerikler sunma
 * Makaleler, videolar veya infografikler aracılığıyla kullanıcılara bilgi sağlama
 * Kullanıcıların sorularını sormak veya uzmanlardan tavsiye almak için iletişim kanalları veya forumlar sağlama
 
 ### 5-Gönüllülük ve Etkinlikler:
----
+
 * Kullanıcıları hayvan koruma etkinlikleri ve gönüllülük projeleri hakkında bilgilendirme özelliği
 * Etkinlik takvimi ve katılım kaydı gibi işlevler sunma
 * Kullanıcıların etkinlikler hakkında geri bildirimde bulunma veya paylaşma imkanı
 
-Bu özellikler, hayvanları koruma ve destek uygulamasının temel işlevlerini kapsamaktadır. 
+ - Bu özellikler, hayvanları koruma ve destek uygulamasının temel işlevlerini kapsamaktadır. 
 --------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## HEDEF KİTLE 
  ----
 ### 1-Hayvan Severler:
- ----
+
 * Hayvanları seven ve onların refahı için duyarlı olan kişiler, uygulamanın ana hedef kitlesini oluşturabilir. Bu kişiler hayvanlarla ilgili haberleri takip eder, hayvan      sahiplenmeyi düşünür veya hayvanlara yardım etmek için bağış yapar.         
  
 ### 2-Hayvan Sahiplenmek İsteyenler:
- ---
+
 * Bir evcil hayvan sahiplenmeyi düşünen veya kaybolmuş bir hayvanı sahibiyle buluşturmak isteyen kişiler, uygulamayı kullanabilir. Bu kitle, sahiplendirme ilanlarını inceleyerek veya kayıp hayvan ilanlarına erişerek aradıkları hayvanı bulma ve sahiplenme sürecini yönetme imkanına sahip olur.
  
 ### 3-Hayvan Barınakları ve Koruma Kuruluşları:
- ---
+
 * Uygulama, hayvan barınakları ve hayvan koruma kuruluşları gibi kurumlar için de faydalı olabilir. Bu kurumlar, hayvanlarını sahiplendirme, kayıp hayvanlar için ilan oluşturma veya bağış kabul etme gibi işlevleri uygulama üzerinden gerçekleştirebilir.
 
 ### 4-Hayvansever Dernekler ve Gönüllüler:
-----
+
 * Hayvan koruma dernekleri, sivil toplum kuruluşları veya gönüllüler, uygulama aracılığıyla etkinliklerini duyurabilir, gönüllülük projeleri düzenleyebilir ve bağış kabul edebilir. Bu kitle, hayvan koruma faaliyetlerine aktif katılım için uygulamayı kullanabilir.
 
 ### 5-Hayvan Sağlık Profesyonelleri:
----
+
 * Veteriner hekimler, hayvan bakım uzmanları veya diğer hayvan sağlık profesyonelleri, uygulama üzerinden bilgilendirme ve eğitim materyalleri paylaşarak hayvan sahiplerine veya genel halka ulaşabilir. Aynı zamanda, kayıp veya bulunan hayvanlarla ilgili bilgilere erişebilir ve ilgili kişilerle iletişime geçebilirler.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## JURİYE NOT
-----
+
 Sevgili Jüri Üyeleri,
 
 Size hayvanları koruma ve hayvanlara destek amacıyla geliştirilmekte olan  Flutter uygulamasını sunmak istiyoruz. Bu uygulama, hayvanseverlerin, hayvan barınaklarının ve hayvan koruma kuruluşlarının ihtiyaçlarına yönelik bir platform sağlamak için tasarlanacaktır.
@@ -153,8 +152,8 @@ Saygılarımızla,
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello panosunda gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Sprint boyunca her gün ilgili uygulamalarla Daily Scrum yapılmıştır.  Daily Scrum toplantısı örnekleri word olarak Readme'de tarafımızdan paylaşılmaktadır:  
-[**Sprint 1 Daily Scrum Chats**]()
+- **Daily Scrum**: Sürekli iletişim halinde kalınarak her gün belli bir problem ele alınarak ilerlenmiştir. Bu dosya ile WhatsApp ve Discord görüşmelerinden önemli kesitler verilmiştir:  
+[**Sprint 1 Daily Scrum Chats**](https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Daily%20Scrum%20Chats.pdf)
 
 ## Product Backlog URL
 
@@ -179,9 +178,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello panosunda göz
     
 
   <tr>
-    <td><img src="" width="350" height="540"></td>
-    <td><img src="" width="350" height="540"></td>
-    <td><img src="" width="350" height="540"></td>
+    <td><img src="https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Ekran%20Tasar%C4%B1mlar%C4%B1/loginUI.jpg" width="350" height="540"></td>
+    <td><img src="https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Ekran%20Tasar%C4%B1mlar%C4%B1/homepageUI.jpg" width="350" height="540"></td>
+    <td><img src="https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Ekran%20Tasar%C4%B1mlar%C4%B1/sidebarMenuUI.jpg" width="350" height="540"></td>
    
  </table>
 
@@ -192,9 +191,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello panosunda göz
      <td>6</td> 
 
   <tr>
-    <td><img src="" width="350" height="540"></td>
-    <td><img src="" width="350" height="540"></td>
-    <td><img src="" width="350" height="540"></td>
+    <td><img src="https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Ekran%20Tasar%C4%B1mlar%C4%B1/infoAndEducationUI.jpg" width="350" height="540"></td>
+    <td><img src="https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Ekran%20Tasar%C4%B1mlar%C4%B1/ba%C4%9F%C4%B1%C5%9Filan%C4%B1verUI.jpg" width="350" height="540"></td>
+    <td><img src="https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Ekran%20Tasar%C4%B1mlar%C4%B1/ba%C4%9F%C4%B1%C5%9Filanlar%C4%B1n%C4%B1g%C3%B6rUI.jpg" width="350" height="540"></td>
    
  </table>
   
@@ -203,14 +202,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello panosunda göz
     <td>7</td>
     
   <tr>
-    <td><img src="" width="350" height="540"></td>
+    <td><img src="https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Ekran%20Tasar%C4%B1mlar%C4%B1/ba%C4%9F%C4%B1%C5%9Filandetaylar%C4%B1UI.jpg" width="350" height="540"></td>
 
  </table>
 
-  
--  **Takım Haberleşmeleri** : Sürekli iletişim halinde kalınarak her gün belli bir problem ele alınarak ilerlenmiştir.Bu dosya ile Watsapp ve Discord görüşmelerinden önemli kesitler verilmiştir.
-  [Watsapp_ScreenShot_file].(https://drive.google.com/file/d/1MPHRsdrW1BENm2JxZbMxmxD8MaDOVeWR/view?usp=sharing)
-  
 - **Sprint Review**: 
 Alınan kararlar: Uygulama fikri belirlendi. Uygulama fikri detaylandırılıp hedef kitle belirlendi ve uygulamanın mimari yapısına karar verildi. Figma, Behance vb. platformlardan uygulamanın UI tasarımı için fikir araştırması yapıldı. Uygulama Login, Anasayfa, Bilgi & Destek, Bağış İlanı Oluşturma sayfası, Bağış İlanlarını Görme ve Bağış İlan Detay Sayfası ekranları Photoshopta (veya başka bir tasarım aracında) tasarlandı. Uygulamanın diğer sayfalarında neler olmalı, hangi işlevler olmalı, nasıl bir özelliği olmalı o sayfanın vs. bunun düşünülmesi ve yazıya dökülmesi işlemi yapıldı. Flutter projesinin oluşturulmadı dolayısıyla projenin klasör yapısı da oluşturulmadı. Planlandığı şekilde Login ve Register ekranlarının Flutter'da yapılmasına başlanılmadı. Yapılmayan işler sınavlardan dolayı bir sonraki sprinte ertelendi.
   
@@ -235,5 +230,5 @@ Rezan Şentürk, Hüseyin Karabulut, Melek Karakaya, Nida Sağlam, Tuana Küçü
 - [Hüseyin Karabulut: Developer (UI/UX Designer)](https://www.linkedin.com/in/hsynkbulut/)
 - [Melek Karakaya: Product Owner](https://www.linkedin.com/in/melek-karakaya-39417123a/)
 - [Nida Sağlam: Team Member/Developer](https://www.linkedin.com/in/nidasaglam/)
-- [Tuana Küçük: Team Member/Developer]()
+- [Tuana Küçük: Team Member/Developer](https://www.linkedin.com/in/tuana-k%C3%BC%C3%A7%C3%BCk-3b0764258/)
 
