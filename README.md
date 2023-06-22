@@ -161,10 +161,20 @@ Saygılarımızla,
   ![2](https://github.com/rezansenturk/Pat-e/assets/78067331/ebe56049-e646-4ddf-980b-b08dd62e5678)
   ![3](https://github.com/rezansenturk/Pat-e/assets/78067331/47f77e20-035f-4227-8fb0-8f1353092ede)
   
+- **Uygulama UI Tasarımları** 
+![Sprint1_4](https://github.com/rezansenturk/Pat-e/assets/78067331/48206d37-83a1-4966-97fe-780feb215850)
 
+![Sprint1_5](https://github.com/rezansenturk/Pat-e/assets/78067331/c91d02d8-2572-45c7-b317-c2e5d7aa7f3d)
 
+![Sprint1_6](https://github.com/rezansenturk/Pat-e/assets/78067331/fea65410-6a0e-4301-8a18-91d14ad37431)
 
+![Sprint1_7](https://github.com/rezansenturk/Pat-e/assets/78067331/ea0b7423-8a18-4d89-9799-53e993be2dfc)
 
+![Sprint1_8](https://github.com/rezansenturk/Pat-e/assets/78067331/10895381-8715-47da-a1de-af656b2fc45d)
+
+![Print1_9](https://github.com/rezansenturk/Pat-e/assets/78067331/bf9a1536-7d18-471f-93dd-059dfff68d8f)
+
+  
 -  **Takım Haberleşmeleri** : Sürekli iletişim halinde kalınarak her gün belli bir problem ele alınarak ilerlenmiştir.Bu dosya ile Watsapp ve Discord görüşmelerinden önemli kesitler verilmiştir.
   [Watsapp_ScreenShot_file].(https://drive.google.com/file/d/1MPHRsdrW1BENm2JxZbMxmxD8MaDOVeWR/view?usp=sharing)
   
