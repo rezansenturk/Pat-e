@@ -158,8 +158,10 @@ Saygılarımızla,
 
 - **Sprint board update**: Sprint board screenshotları
   ![1](https://github.com/rezansenturk/Pat-e/assets/78067331/8d963a9b-7c97-4f40-ad8e-dab456d79819)
+  ![2](https://github.com/rezansenturk/Pat-e/assets/78067331/ebe56049-e646-4ddf-980b-b08dd62e5678)
+  ![3](https://github.com/rezansenturk/Pat-e/assets/78067331/47f77e20-035f-4227-8fb0-8f1353092ede)
   
-![Sprint1_1]()
+
 
 
 
