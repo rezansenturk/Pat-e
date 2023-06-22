@@ -91,9 +91,8 @@
 * Etkinlik takvimi ve katılım kaydı gibi işlevler sunma
 * Kullanıcıların etkinlikler hakkında geri bildirimde bulunma veya paylaşma imkanı
 
- - Bu özellikler, hayvanları koruma ve destek uygulamasının temel işlevlerini kapsamaktadır. 
---------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+> Bu özellikler, hayvanları koruma ve destek uygulamasının temel işlevlerini kapsamaktadır. 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## HEDEF KİTLE 
 ### 1-Hayvan Severler:
 * Hayvanları seven ve onların refahı için duyarlı olan kişiler, uygulamanın ana hedef kitlesini oluşturabilir. Bu kişiler hayvanlarla ilgili haberleri takip eder, hayvan      sahiplenmeyi düşünür veya hayvanlara yardım etmek için bağış yapar.         
@@ -196,11 +195,11 @@ Alınan kararlar: Uygulama fikri belirlendi. Uygulama fikri detaylandırılıp h
 Rezan Şentürk, Hüseyin Karabulut, Melek Karakaya, Nida Sağlam, Tuana Küçük
   
 - **Sprint Retrospective:**
-- Her sprintte sprint boyunca yaptığımız toplantılarla ilgili notların düzenli bir şekilde tutulmasına karar verildi.  
-- Veri tabanının bağlantısının yapılması ve tabloların oluşturulmasına karar verildi.
-- Flutter projesinin oluşturulmasına karar verildi.
-- Flutter projenin klasör yapısının oluşturulmasına karar verildi.
-- Login ve Register ekranlarının Flutter'da yapılmasına karar verildi.
+ - Her sprintte sprint boyunca yaptığımız toplantılarla ilgili notların düzenli bir şekilde tutulmasına karar verildi.  
+ - Veri tabanının bağlantısının yapılması ve tabloların oluşturulmasına karar verildi.
+ - Flutter projesinin oluşturulmasına karar verildi.
+ - Flutter projenin klasör yapısının oluşturulmasına karar verildi.
+ - Login ve Register ekranlarının Flutter'da yapılmasına karar verildi.
 
 -**Diğer Notlar**:
 - N/A
