@@ -157,7 +157,10 @@ Saygılarımızla,
 [Trello Backlog Board_Sprint_1](https://trello.com/b/CfONQ2GE/g%C3%B6revler) 
 
 - **Sprint board update**: Sprint board screenshotları: Düzenleme Yapılıcak!!!!!!!
-![Sprint1_1]() 
+![Sprint1_1]()
+
+-  **Takım Haberleşmeleri** : Sürekli iletişim halinde kalınarak her gün belli bir problem ele alınarak ilerlenmiştir.Bu dosya ile Watsapp ve Discord görüşmelerinden önemli kesitler verilmiştir.
+  [Watsapp_ScreenShot_file].(https://drive.google.com/file/d/1MPHRsdrW1BENm2JxZbMxmxD8MaDOVeWR/view?usp=sharing)
   
 - **Sprint Review**: 
 Alınan kararlar: Uygulama fikri belirlendi. Uygulama fikri detaylandırılıp hedef kitle belirlendi ve uygulamanın mimari yapısına karar verildi. Figma, Behance vb. platformlardan uygulamanın UI tasarımı için fikir araştırması yapıldı. Uygulama Login, Anasayfa, Bilgi & Destek, Bağış İlanı Oluşturma sayfası, Bağış İlanlarını Görme ve Bağış İlan Detay Sayfası ekranları Photoshopta (veya başka bir tasarım aracında) tasarlandı. Uygulamanın diğer sayfalarında neler olmalı, hangi işlevler olmalı, nasıl bir özelliği olmalı o sayfanın vs. bunun düşünülmesi ve yazıya dökülmesi işlemi yapıldı. Flutter projesinin oluşturulmadı dolayısıyla projenin klasör yapısı da oluşturulmadı. Planlandığı şekilde Login ve Register ekranlarının Flutter'da yapılmasına başlanılmadı. Yapılmayan işler sınavlardan dolayı bir sonraki sprinte ertelendi.
