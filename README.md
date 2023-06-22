@@ -1,47 +1,43 @@
 # **Takım İsmi**
-
 ### **F-120 OUA**
 
 ## Ürün İsmi
-# **Pat-E**
+### **Pat-E**
 
 ## Ürün İle İlgili Bilgiler
 
 ### 1-Hayvan Sahiplenme:
------
 * Kullanıcıların hayvan barınaklarındaki veya sahiplendirme platformlarındaki hayvanları görebileceği bir arayüz sağlanabilir.
 * Hayvanların fotoğrafları, özellikleri ve sahiplendirme koşulları gibi bilgileri gösteren bir detay sayfası oluşturulabilir.
 * Kullanıcılar, ilgilendikleri hayvanlar için başvuruda bulunabilir ve sahiplendirme sürecini takip edebilir.
 
 ### 2-Kayıp ve Bulunan Hayvanlar:
-----
 * Kullanıcılar, kaybolan veya bulunan hayvanlar hakkında bilgi paylaşabilirler.
 * Kullanıcılar, kaybolan hayvanlar için kayıp ilanı oluşturabilir ve bulunan hayvanlar için de ilanları görebilir.
 * Hayvanların fotoğrafları, son görüldükleri yer, irtibat bilgileri gibi bilgiler paylaşılabilir.
 
 ### 3-Bağış ve Destek:
-----
 * Kullanıcılar, hayvanlar için bağış yapabilecekleri bir bölüm sağlanabilir.
 * Farklı hayvan barınakları veya hayvan koruma kuruluşlarıyla işbirliği yapılarak bağış seçenekleri sunulabilir.
 * Kullanıcılar, bağış yaptıklarında alacakları bilgileri görüntüleyebilir ve bağış geçmişlerini takip edebilir.
 
 ### 4-Bilgilendirme ve Eğitim:
------
 * Hayvanlarla ilgili bilgilendirici içerikler, makaleler, videolar veya infografikler sunulabilir.
 * Kullanıcılara hayvan bakımı, beslenme, sağlık gibi konularda eğitim materyalleri sağlanabilir.
 * Kullanıcılar, sorularını sormak veya uzmanlardan tavsiye almak için iletişim kanallarına erişebilir.
 
 ### 5-Gönüllülük ve Etkinlikler:
-----
 * Kullanıcılar, hayvan koruma etkinlikleri, gönüllülük projeleri veya hayvan dostu etkinlikler hakkında bilgilendirilebilir.
 * Kullanıcılar, katılabilecekleri etkinlikleri görebilir, kaydolabilir ve etkinliklere katılım sonrası geri bildirimlerde bulunabilir.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Takım Elemanları
-* Rezan Şentürk: Scrum Master / Developer 
-* Nida Sağlam - Developer 
-* Tuana Küçük -Developer 
-* Hüseyin Karabulut - Developer 
-* Melek KARAKAYA - Product Owner
+
+## F-120 Takım Üyeleri
+
+- [Rezan Şentürk: Scrum Master/Developer](https://www.linkedin.com/in/rezan-%C5%9Fent%C3%BCrk-541769258/)
+- [Hüseyin Karabulut: Developer (UI/UX Designer)](https://www.linkedin.com/in/hsynkbulut/)
+- [Melek Karakaya: Product Owner](https://www.linkedin.com/in/melek-karakaya-39417123a/)
+- [Nida Sağlam: Team Member/Developer](https://www.linkedin.com/in/nidasaglam/)
+- [Tuana Küçük: Team Member/Developer](https://www.linkedin.com/in/tuana-k%C3%BC%C3%A7%C3%BCk-3b0764258/)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -52,19 +48,15 @@
 * Kullanıcılara hayvan barınaklarındaki veya sahiplendirme platformlarındaki sevimli dostlarımızı keşfetme imkanı sunar. Kullanıcılar, detaylı bilgileri ve fotoğraflarıyla birlikte hayvanların sahiplenme koşullarını inceleyebilir, başvuruda bulunabilir ve sahiplendirme sürecini takip edebilir.
 
 ### 2. Kayıp ve Bulunan Hayvanlar: 
-
 * Kullanıcıların kaybolan veya bulunan hayvanlar hakkında bilgi paylaşabilecekleri bir platform sunar. Kullanıcılar, kaybolan hayvanlar için ilan oluşturabilir veya bulunan hayvanlar için ilanları görüntüleyebilir. Bu sayede, kayıp hayvanların sahiplerine ulaşmaları veya bulunan hayvanların tekrar sahiplenilmeleri için yardımcı olunur.
 
 ### 3. Bağış ve Destek: 
-
 * Kullanıcıların hayvanlar için bağış yapabilecekleri bir alan sağlar. Farklı hayvan barınakları ve hayvan koruma kuruluşlarıyla işbirliği yaparak, bağış seçenekleri sunar. Kullanıcılar, güvenli bir şekilde bağış yapabilir, bağış geçmişlerini takip edebilir ve bağışlarının hayvanların bakımına katkı sağladığını görebilir.
 
 ### 4. Bilgilendirme ve Eğitim:
- 
 * Kullanıcılara hayvanlarla ilgili bilgilendirici içerikler sunar. Kullanıcılar, hayvan bakımı, beslenme, sağlık ve eğitim konularında makaleler, videolar veya infografikler aracılığıyla bilgi edinebilirler. Ayrıca, sorularını sormak ve uzmanlardan tavsiye almak için iletişim kanallarına erişebilirler.
 
 ### 5. Gönüllülük ve Etkinlikler: 
-
  * Hayvan koruma etkinlikleri ve gönüllülük projeleri hakkında kullanıcıları bilgilendirir. Kullanıcılar, katılabilecekleri etkinlikleri görüntüleyebilir, kaydolabilir ve etkinlik sonrası geri bildirimlerde bulunabilir. Bu sayede, kullanıcılar aktif olarak hayvanlara yardım etme ve topluluk etkinliklerine katılma fırsatı bulurlar.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Ürün Özellikleri
@@ -103,32 +95,24 @@
 --------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## HEDEF KİTLE 
- ----
 ### 1-Hayvan Severler:
-
 * Hayvanları seven ve onların refahı için duyarlı olan kişiler, uygulamanın ana hedef kitlesini oluşturabilir. Bu kişiler hayvanlarla ilgili haberleri takip eder, hayvan      sahiplenmeyi düşünür veya hayvanlara yardım etmek için bağış yapar.         
  
 ### 2-Hayvan Sahiplenmek İsteyenler:
-
 * Bir evcil hayvan sahiplenmeyi düşünen veya kaybolmuş bir hayvanı sahibiyle buluşturmak isteyen kişiler, uygulamayı kullanabilir. Bu kitle, sahiplendirme ilanlarını inceleyerek veya kayıp hayvan ilanlarına erişerek aradıkları hayvanı bulma ve sahiplenme sürecini yönetme imkanına sahip olur.
  
 ### 3-Hayvan Barınakları ve Koruma Kuruluşları:
-
 * Uygulama, hayvan barınakları ve hayvan koruma kuruluşları gibi kurumlar için de faydalı olabilir. Bu kurumlar, hayvanlarını sahiplendirme, kayıp hayvanlar için ilan oluşturma veya bağış kabul etme gibi işlevleri uygulama üzerinden gerçekleştirebilir.
 
 ### 4-Hayvansever Dernekler ve Gönüllüler:
-
 * Hayvan koruma dernekleri, sivil toplum kuruluşları veya gönüllüler, uygulama aracılığıyla etkinliklerini duyurabilir, gönüllülük projeleri düzenleyebilir ve bağış kabul edebilir. Bu kitle, hayvan koruma faaliyetlerine aktif katılım için uygulamayı kullanabilir.
 
 ### 5-Hayvan Sağlık Profesyonelleri:
-
 * Veteriner hekimler, hayvan bakım uzmanları veya diğer hayvan sağlık profesyonelleri, uygulama üzerinden bilgilendirme ve eğitim materyalleri paylaşarak hayvan sahiplerine veya genel halka ulaşabilir. Aynı zamanda, kayıp veya bulunan hayvanlarla ilgili bilgilere erişebilir ve ilgili kişilerle iletişime geçebilirler.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## JURİYE NOT
-
 Sevgili Jüri Üyeleri,
-
 Size hayvanları koruma ve hayvanlara destek amacıyla geliştirilmekte olan  Flutter uygulamasını sunmak istiyoruz. Bu uygulama, hayvanseverlerin, hayvan barınaklarının ve hayvan koruma kuruluşlarının ihtiyaçlarına yönelik bir platform sağlamak için tasarlanacaktır.
 Uygulamamızın temel hedefi, hayvanları koruma çabalarını desteklemek ve hayvanseverleri bir araya getirerek hayvanların refahını artırmaktır. 
 
@@ -137,7 +121,6 @@ Uygulamamızın kullanıcı deneyimi, kullanıcı dostu arayüzü ve etkileyici 
 Lütfen uygulamamızı değerlendirirken kullanıcı dostu arayüz, işlevsellik, yenilikçilik ve etki gibi kriterleri göz önünde bulundurmanızı rica ederiz. Herhangi bir sorunuz veya geri bildiriminiz olursa, lütfen bize ulaşmaktan çekinmeyin.
 
 Katılımınız ve değerli değerlendirmeleriniz için şimdiden teşekkür ederiz.
-
 Saygılarımızla,
 
 # Sprint 1
@@ -160,13 +143,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello panosunda göz
 [Trello Backlog Board_Sprint_1](https://trello.com/b/CfONQ2GE/g%C3%B6revler) 
 
 - **Sprint board update**: Sprint board screenshotları
-![Sprint1_1](https://github.com/rezansenturk/Pat-e/assets/78067331/8d963a9b-7c97-4f40-ad8e-dab456d79819)
-![Sprint1_2](https://github.com/rezansenturk/Pat-e/assets/78067331/ebe56049-e646-4ddf-980b-b08dd62e5678)
-![Sprint1_3](https://github.com/rezansenturk/Pat-e/assets/78067331/47f77e20-035f-4227-8fb0-8f1353092ede)
-![Sprint1_4](https://github.com/rezansenturk/Pat-e/assets/78067331/47f77e20-035f-4227-8fb0-8f1353092ede)
-![Sprint1_5](https://github.com/rezansenturk/Pat-e/assets/78067331/47f77e20-035f-4227-8fb0-8f1353092ede)
-![Sprint1_6](https://github.com/rezansenturk/Pat-e/assets/78067331/47f77e20-035f-4227-8fb0-8f1353092ede)
-![Sprint1_7](https://github.com/rezansenturk/Pat-e/assets/78067331/47f77e20-035f-4227-8fb0-8f1353092ede)
+![Sprint1_1](https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Trello%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/sprint1_1.jpeg)
+![Sprint1_2](https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Trello%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/sprint1_2.jpeg)
+![Sprint1_3](https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Trello%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/sprint1_3.jpeg)
+![Sprint1_4](https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Trello%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/sprint1_4.jpeg)
+![Sprint1_5](https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Trello%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/sprint1_5.jpeg)
+![Sprint1_6](https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Trello%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/sprint1_6.jpeg)
+![Sprint1_7](https://github.com/rezansenturk/Pat-e/blob/main/Project%20Management/Sprint%201/Trello%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/sprint1_7.jpeg)
 
 - **Uygulama UI Tasarımları**
 
@@ -221,14 +204,3 @@ Rezan Şentürk, Hüseyin Karabulut, Melek Karakaya, Nida Sağlam, Tuana Küçü
 
 -**Diğer Notlar**:
 - N/A
-
----
-
-## F-120 Takım Üyeleri
-
-- [Rezan Şentürk: Scrum Master/Developer](https://www.linkedin.com/in/rezan-%C5%9Fent%C3%BCrk-541769258/)
-- [Hüseyin Karabulut: Developer (UI/UX Designer)](https://www.linkedin.com/in/hsynkbulut/)
-- [Melek Karakaya: Product Owner](https://www.linkedin.com/in/melek-karakaya-39417123a/)
-- [Nida Sağlam: Team Member/Developer](https://www.linkedin.com/in/nidasaglam/)
-- [Tuana Küçük: Team Member/Developer](https://www.linkedin.com/in/tuana-k%C3%BC%C3%A7%C3%BCk-3b0764258/)
-
