@@ -156,8 +156,12 @@ Saygılarımızla,
 
 [Trello Backlog Board_Sprint_1](https://trello.com/b/CfONQ2GE/g%C3%B6revler) 
 
-- **Sprint board update**: Sprint board screenshotları: Düzenleme Yapılıcak!!!!!!!
+- **Sprint board update**: Sprint board screenshotları
+  ![1](https://github.com/rezansenturk/Pat-e/assets/78067331/8d963a9b-7c97-4f40-ad8e-dab456d79819)
+  
 ![Sprint1_1]()
+
+
 
 -  **Takım Haberleşmeleri** : Sürekli iletişim halinde kalınarak her gün belli bir problem ele alınarak ilerlenmiştir.Bu dosya ile Watsapp ve Discord görüşmelerinden önemli kesitler verilmiştir.
   [Watsapp_ScreenShot_file].(https://drive.google.com/file/d/1MPHRsdrW1BENm2JxZbMxmxD8MaDOVeWR/view?usp=sharing)
