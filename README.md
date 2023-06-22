@@ -193,8 +193,8 @@ Alınan kararlar: Uygulama fikri belirlendi. Uygulama fikri detaylandırılıp h
   
 - **Sprint Review katılımcıları:** 
 Rezan Şentürk, Hüseyin Karabulut, Melek Karakaya, Nida Sağlam, Tuana Küçük
-  
-- **Sprint Retrospective:**
+
+**Sprint Retrospective:**
  - Her sprintte sprint boyunca yaptığımız toplantılarla ilgili notların düzenli bir şekilde tutulmasına karar verildi.  
  - Veri tabanının bağlantısının yapılması ve tabloların oluşturulmasına karar verildi.
  - Flutter projesinin oluşturulmasına karar verildi.
